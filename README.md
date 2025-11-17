@@ -26,3 +26,20 @@ This project was created as part of the Simple System Development requirement.
 1. Install Python (if not installed)  
 2. Download or clone this repository  
 3. Run the script:
+
+---
+
+## 📁 File Structure---
+
+## 📝 Sample Commit Messages
+- "Initial commit: Added notes app"
+- "Added add_note function"
+- "Implemented delete notes feature"
+- "Updated README documentation"
+
+---
+
+## 👨‍💻 Author
+Your Name Here
+
+
